@@ -1,0 +1,94 @@
+body{
+    background-image:url("https://wallpapercave.com/wp/nsu3cSp.jpg" );
+    background-repeat: repeat;
+    background-size: cover;
+  }
+.nav {
+  background-color: DarkKhaki; 
+  list-style-type: none;
+text-align: center;
+border: 2PX solide DarkKhaki  ;
+border-radius: 7px;
+}
+
+.nav li {
+  display: inline-block;
+  font-size: 20px;
+  padding: 10px;
+}
+a{
+  color:darkgreen;
+  text-decoration:none;
+}
+
+ p.ex1{
+color :DarkSlateGray;
+border: 2px solid DarkSeaGreen ;
+background-color: lightgreen;
+background-size: 20PX 30PX;
+
+} 
+.clever{
+ background-color: DarkSeaGreen;
+ border: 5PX solid DarkSeaGreen ; 
+width: 150PX;
+height: 150PX;
+ border-radius: 7px;
+ overflow:auto;
+
+}
+img.dff {
+  border:2px groove trensparant;
+border-radius: 5px;
+width:  200PX;
+height: 200PX;
+
+}
+span{
+  display: inline-block;
+}
+div {
+  margin: 20PX;
+}
+
+#child{
+background-color: OrangeRed;
+ border: 1PX DOTTED white;
+color:white
+width:20PX
+height:7PX;}
+.start {
+  background: PaleGoldenRod;
+  border-style: dotted solid  ;
+  border-color: peru;
+  padding: 25PX ;
+}
+h1{
+  color: brown;
+  text-shadow: 2px 2px Coral ;
+}
+.deco{
+  text-decoration: underline;
+color: Coral;
+}
+#feed{
+letter-spacing: 2PX;
+
+}
+.final{
+  background-size: auto;
+  background-color: MediumAquaMarine;
+  border-left: 3px solid darkgreen;
+}
+h3 {
+  background-color: LightSalmon;
+height: 30PX;
+  width: 200PX ;
+  padding-left: 20px;
+  text-shadow: 2PX 4px red ;
+  border-left: 3PX solid red ;
+
+}
+.flex{
+  display: flex;
+}
